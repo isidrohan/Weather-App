@@ -96,12 +96,14 @@
 
 @media screen and (max-width: 397px) {
   .section-input button{
-    padding: 10px 30px;
+    /* padding: 10px 30px; */
+    padding: 3px 15px;
   }
 }
 @media screen and (max-width: 352px) {
   .section-input button{
-    padding: 10px 19px;
+    /* padding: 10px 19px; */
+    padding: 3px 15px;
   }
 }
 @media screen and (max-width: 327px){
