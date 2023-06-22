@@ -95,6 +95,9 @@
 }
 
 @media screen and (max-width: 397px) {
+  .section-input input{
+    font-size: 13px;
+  }
   .section-input button{
     /* padding: 10px 30px; */
     padding: 3px 15px;
@@ -107,9 +110,7 @@
   }
 }
 @media screen and (max-width: 327px){
-  .section-input input{
-    font-size: 13px;
-  }
+  
   .section-input button{
   font-size: 13px;
   padding: 9px 15px;
